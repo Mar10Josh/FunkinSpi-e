@@ -102,4 +102,8 @@ Funkin Spice is an advanced version, removements like old icon was removed (forc
 Some upcoming such as mom and parents icons are proper.
 ## Customizing Funkin Spice
 If you are making a mod, just fork it! You can use import repo but please, give credit to me if your using import!
- 
+# DO NOT PULL REQUEST.
+If you pull request, Manifest sky is coming for you soon.
+`jk bahaha`
+STILL DO NOT PULL REQUEST, Unless it is a fix!
+
