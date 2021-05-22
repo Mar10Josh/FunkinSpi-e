@@ -96,14 +96,3 @@ As for Mac, 'lime test mac -debug' should work, if not the internet surely has a
 ### Additional guides
 
 - [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
-
-### About Funkin Spice
-Funkin Spice is an advanced version, removements like old icon was removed (forced to use new icon) and addents like Proper Death Icons!
-Some upcoming such as mom and parents icons are proper.
-## Customizing Funkin Spice
-If you are making a mod, just fork it! You can use import repo but please, give credit to me if your using import!
-# DO NOT PULL REQUEST.
-If you pull request, Manifest sky is coming for you soon.
-`jk bahaha`
-STILL DO NOT PULL REQUEST, Unless it is a fix!
-
